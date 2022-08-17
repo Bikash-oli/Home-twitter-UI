@@ -1,0 +1,14 @@
+.layout {
+  background-color: #E7ECF0;
+  display: grid;
+  grid-template-columns: 300px auto 300px;
+  margin: 0 auto;
+  max-width: 1200px;
+  
+}
+
+.layout__right-sidebar {
+  position: fixed;
+  width: 300px;
+
+}
